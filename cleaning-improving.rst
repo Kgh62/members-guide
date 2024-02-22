@@ -11,4 +11,4 @@ We love volunteers, please see the page on the wiki https://wiki.nottinghack.org
 
 For Events
 -------------------------
-For Hack The Space events please see the events page https://wiki.nottinghack.org.uk/wiki/Events
+It is open to members to run, or suggest, events at the Hackspace. To find out more please see the events page https://wiki.nottinghack.org.uk/wiki/Events
