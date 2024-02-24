@@ -6,7 +6,7 @@ Comfy Area
 
 The comfy are is a place where people tend to congregate and socialise. With a projector, soft furnishings, coffee tables, and shelves full of books, it's an excellent place to relax.
 
-A sound system and Raspberry Pi is available for use along with the projector.
+A sound system and Raspberry Pi is available for use along with the projector. There are some more details about how to use this on the `wiki <https://wiki.nottinghack.org.uk/wiki/Comfy_Area_AV>`_.
 
 The museum of oddities exists for us to showcase interesting items that we've collected over the years, from decades old consoles to an Amstrad phone. These items are not available for hacking, but if you've got something quirky you'd like to donate for display then feel free to let us know.
 
@@ -17,7 +17,7 @@ For more information about the Comfy Area see the wiki `Comfy Area <https://wiki
 The Studio
 ----------
 
-Our Studio contains many tables to work at, designed for projects that don’t require heavier tools or are 'clean' work such as prototyping, programming, craft, etc. At the back of the studio is a large cutting table available for use on cutting material or assembling overly large items. The studio is home to Snackspace and our main Large Project Storage shelving.
+The Studio is a well-lit room containing many tables to work at. These are designed for projects that don’t require heavier tools or are 'clean' work such as prototyping, programming, craft, etc. At the back of the studio is a large cutting table that can be used for cutting material or assembling large items. The studio is also home to Snackspace and our main Large Project Storage shelving.
 
 On the far wall there is a list of benefactors that made it possible for us to move into such a large space. 
 
@@ -36,11 +36,11 @@ The Workshop
 The heart of Nottingham Hackspace is the workshop, where you’ll find most tools along with various consumables. Facilities in the workshop include:
 
 * General purpose workbenches
-* The laser cutter, 
+* The laser cutter
 * General hand and power tools for joinery
 * Large sink plus screen printing equipment
 * Metalworking area with metal lathe, milling machine and welding equipment.
-* Dusty area 
+* Dusty area including large woodworking tools eg table saw
 * Spraybooth
 
 Please replace tools back in their correct storage when you have finished with them, and tidy up any dust or mess made by the tools being used.
@@ -56,7 +56,7 @@ The kitchen is equipped with storage, tea making facilities, a microwave, a dish
 
 More details about the kitchen are on the wiki https://wiki.nottinghack.org.uk/wiki/Kitchen
 
-The Blue room
+The Blue Room
 -------------
 
 The Blue Room is provided as a peaceful area where members can work if there is a large event going on in the main space, wish to work in a small group, or simply wish to work quietly on their laptop or one of the PCs open to use by members. In winter, it’s also one of the smaller areas of the Hackspace that can be heated more economically than the other rooms.
